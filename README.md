@@ -1,6 +1,4 @@
-# Code-
-
-Instructions to run the code 
+# Instructions 
 
 javac ReadFile.java
 java ReadFile
