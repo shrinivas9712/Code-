@@ -1,4 +1,5 @@
 # Instructions 
 
-javac ReadFile.java
-java ReadFile
+ javac ReadFile.java
+
+ java ReadFile
